@@ -1,0 +1,15 @@
+
+[%General]
+composite=true
+blurring=true
+popup_blurring=false
+
+[ToolTip]
+frame=true
+frame.element=tooltip
+frame.top=30
+frame.bottom=30
+frame.left=30
+frame.right=30
+interior=true
+interior.element=tooltip

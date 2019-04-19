@@ -1,0 +1,27 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 2">
+<g id="tooltip-normal-topleft">
+<path id="menu-normal-topleft" d="M0 3C0 1.34315 1.34315 0 3 0V3H0Z" fill="white" fill-opacity="0.15"/>
+</g>
+<g id="tooltip-normal-topright">
+<path id="menu-normal-topleft_2" d="M21 -1.31134e-07C22.6569 -5.87108e-08 24 1.34315 24 3L21 3L21 -1.31134e-07Z" fill="white" fill-opacity="0.15"/>
+</g>
+<g id="tooltip-normal-bottomright">
+<path id="menu-normal-topleft_3" d="M24 21C24 22.6569 22.6569 24 21 24L21 21L24 21Z" fill="white" fill-opacity="0.15"/>
+</g>
+<g id="tooltip-normal-bottomleft">
+<path id="menu-normal-topleft_4" d="M3 24C1.34315 24 -5.87108e-08 22.6569 -1.31134e-07 21L3 21L3 24Z" fill="white" fill-opacity="0.15"/>
+</g>
+<g id="tooltip-normal-top">
+<rect id="menu-normal-top" x="4" width="16" height="3" fill="white" fill-opacity="0.15"/>
+</g>
+<g id="tooltip-normal-bottom">
+<rect id="menu-normal-top_2" x="4" y="21" width="16" height="3" fill="white" fill-opacity="0.15"/>
+</g>
+<rect id="tooltip-normal-right" x="24" y="4" width="16" height="3" transform="rotate(90 24 4)" fill="white" fill-opacity="0.15"/>
+<g id="tooltip-normal-left">
+<rect id="bg" x="3" y="4" width="16" height="3" transform="rotate(90 3 4)" fill="white" fill-opacity="0.15"/>
+</g>
+<rect id="tooltip-normal" x="4" y="4" width="16" height="16" fill="white" fill-opacity="0.15"/>
+</g>
+</svg>
